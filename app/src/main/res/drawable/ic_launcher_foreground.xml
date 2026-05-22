@@ -1,0 +1,27 @@
+<!-- Beautiful customized FocusNest logo icon -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Stopwatch center ring -->
+    <path
+        android:fillColor="#F9623B"
+        android:pathData="M54,34c-11,0 -20,9 -20,20s9,20 20,20s20,-9 20,-20s-9,-20 -20,-20zM54,68c-7.7,0 -14,-6.3 -14,-14s6.3,-14 14,-14s14,6.3 14,14s-6.3,14 -14,14z" />
+        
+    <!-- Timer hand -->
+    <path
+        android:fillColor="#F1F5F9"
+        android:pathData="M52,43h4v12h-4z" />
+        
+    <!-- Top push clickers -->
+    <path
+        android:fillColor="#F9623B"
+        android:pathData="M48,26h12v4h-12z M52,23h4v3h-4z" />
+        
+    <!-- Protective nesting branches under the clock -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M24,54c0,16.6 13.4,30 30,30s30,-13.4 30,-30h-4c0,14.4 -11.6,26 -26,26s-26,-11.6 -26,-26h-4z" />
+</vector>

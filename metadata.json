@@ -1,0 +1,6 @@
+{
+  "name": "FocusNest",
+  "description": "Fokus qilish, kundalik maqsadlar va progressni chiroyli hisobotlar bilan kuzatish ilovasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
